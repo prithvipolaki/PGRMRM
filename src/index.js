@@ -7,12 +7,13 @@ import { Products } from './components/Products';
 import { Home } from './components/Home';
 import { Header } from './components/Header';
 import { AddExpenses, ViewExpenses } from './containers/Expenses';
+import Footer from './components/Footer/Footer';
 
 ReactDOM.render(
     <Router>
         <div className="container">
             <Header />
-            <div>
+            <div style={{ backgroundColor: '#f8f2f2', marginTop: '10px' }}>
                 <Switch>
                     <Route exact path='/' component={Home}></Route>
                     <Route path='/products' component={Products}></Route>
@@ -20,9 +21,9 @@ ReactDOM.render(
                     <Route path='/viewexpenses' component={ViewExpenses}></Route>
                 </Switch>
             </div>
+            <Footer />
         </div>
-    </Router>
-    ,
+    </Router>,
     document.getElementById('root')
 );
 registerServiceWorker();

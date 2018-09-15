@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import classNames from 'classnames';
 import { withRouter } from 'react-router-dom';
@@ -13,7 +13,7 @@ const Header = ({ location }) => {
             <li role="presentation" className={classNames({ 'active': currentPath === '/products' })}>
                 <Link to="/products">Products</Link>
             </li>
-            <li role="presentation" className={classNames('dropdown', { 'active': currentPath == '/addexpenses' || currentPath == '/viewexpenses' })}>
+            <li role="presentation" className={classNames('dropdown', { 'active': currentPath === '/addexpenses' || currentPath === '/viewexpenses' })}>
                 <a className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     Expenses <span className="caret"></span>
                 </a>
