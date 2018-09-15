@@ -7,7 +7,7 @@ import { Products } from './components/Products';
 import { Home } from './components/Home';
 import { Header } from './components/Header';
 import { AddExpenses, ViewExpenses } from './containers/Expenses';
-import Footer from './components/Footer/Footer';
+import { Footer } from './components/Footer';
 
 ReactDOM.render(
     <Router>
