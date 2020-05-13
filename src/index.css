@@ -3,3 +3,24 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+li.link-wrapper > a.active {
+
+  margin-bottom: -1px;
+
+  color: #555;
+
+  cursor: default;
+
+  background-color: #fff;
+
+  border: 1px solid #ddd;
+
+  border-bottom-color: transparent;
+
+}
+
+.modal {
+  display: inline-block;
+  background-color: rgba(0,0,0,0.4);
+}
