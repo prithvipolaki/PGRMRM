@@ -1,0 +1,573 @@
+{
+  "users": [
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Venkata Raju",
+      "villageName": "Urlam",
+      "quality": "1001",
+      "quantityIn": "quintals",
+      "bags": "0",
+      "quintals": "12",
+      "price": "1250",
+      "date": "20-01-2020",
+      "documentsStatus": "N"
+    },
+    {
+      "firstName": "Yagalla",
+      "lastName": "Rama Krishna",
+      "villageName": "Boddavani peta",
+      "quality": "Swarna",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1300",
+      "date": "10-02-2020",
+      "documentsStatus": "N"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Narasimha murthy",
+      "villageName": "Balaseema",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1350",
+      "date": "05-03-2020",
+      "documentsStatus": "N"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "NagaRaju",
+      "villageName": "Balaseema",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1210",
+      "date": "03-01-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Varadharajulu",
+      "villageName": "Balaseema",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "250",
+      "quintals": "0",
+      "price": "1150",
+      "date": "07-01-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Aringi",
+      "lastName": "Srinu",
+      "villageName": "Balaseema",
+      "quality": "Samba",
+      "quantityIn": "quintals",
+      "bags": "0",
+      "quintals": "10",
+      "price": "1100",
+      "date": "01-01-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Aringi",
+      "lastName": "Narasimha murthy",
+      "villageName": "Balaseema",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1050",
+      "date": "01-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Aringi",
+      "lastName": "Krishna Murthy",
+      "villageName": "Balaseema",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "150",
+      "quintals": "0",
+      "price": "1120",
+      "date": "10-02-2020",
+      "documentsStatus": "N"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Krishna Murthy",
+      "villageName": "Urlam",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "150",
+      "quintals": "0",
+      "price": "1120",
+      "date": "10-02-2020",
+      "documentsStatus": "N"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Narasimha Murthy",
+      "villageName": "Boddavani peta",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "250",
+      "quintals": "0",
+      "price": "1120",
+      "date": "02-02-2020",
+      "documentsStatus": "N"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Ramanaiah",
+      "villageName": "Urlam",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "150",
+      "quintals": "0",
+      "price": "1020",
+      "date": "04-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Yagalla",
+      "lastName": "Prasanthi",
+      "villageName": "Boddavani peta",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1100",
+      "date": "20-01-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Jallu",
+      "lastName": "Chandra Mouli",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1400",
+      "date": "08-01-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Jallu",
+      "lastName": "Venkataramana",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "100",
+      "quintals": "0",
+      "price": "1100",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Arangi",
+      "lastName": "venkatesh",
+      "villageName": "Balaseema",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1200",
+      "date": "10-01-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "konkena",
+      "lastName": "Rajesh",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "100",
+      "quintals": "0",
+      "price": "1100",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Dikkala",
+      "lastName": "Tagore",
+      "villageName": "Korlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "220",
+      "quintals": "0",
+      "price": "1500",
+      "date": "14-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Dikkala",
+      "lastName": "Sivaji",
+      "villageName": "Korlam",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "110",
+      "quintals": "0",
+      "price": "1100",
+      "date": "13-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Peesa",
+      "lastName": "Chinna naidu",
+      "villageName": "Korlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Yagalla",
+      "lastName": "Sanjay",
+      "villageName": "Korlam",
+      "quality": "1001",
+      "quantityIn": "bags",
+      "bags": "400",
+      "quintals": "0",
+      "price": "1100",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Yagalla",
+      "lastName": "Chinna Rao",
+      "villageName": "Satyavaram",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "150",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "userType": "farmer",
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "userType": "farmer",
+      "firstName": "Polaki",
+      "lastName": "Pushpa Latha",
+      "villageName": "Urlam",
+      "quality": "Samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1200",
+      "date": "20-02-2020",
+      "documentsStatus": "Y"
+    },
+    {
+      "userType": "farmer",
+      "firstName": "raju",
+      "lastName": "polaki",
+      "villageName": "urlam",
+      "quality": "samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1250",
+      "date": "14-06-1991",
+      "documentsStatus": "1",
+      "id": "1"
+    },
+    {
+      "userType": "farmer",
+      "firstName": "raju",
+      "lastName": "polaki",
+      "villageName": "urlam",
+      "quality": "samba",
+      "quantityIn": "bags",
+      "bags": "200",
+      "quintals": "0",
+      "price": "1250",
+      "date": "14-06-1991",
+      "documentsStatus": "1",
+      "id": "GZ9Kvln"
+    },
+    {
+      "id": "cyi0IPq",
+      "userType": "farmer",
+      "firstName": "Patana",
+      "lastName": "Mohan Rao",
+      "villageName": "Ichappuram",
+      "quantityIn": "bags",
+      "quality": "Swarna",
+      "bags": "250",
+      "quintals": "",
+      "price": "1250",
+      "date": "2019-08-05",
+      "documentsStatus": "1"
+    },
+    {
+      "id": "jvlD79h",
+      "userType": "agent",
+      "agentName": "2",
+      "quality": "Samba",
+      "bags": "200",
+      "quintals": "20",
+      "price": "1520",
+      "date": "2020-02-10",
+      "documentsStatus": "1"
+    },
+    {
+      "id": "K60qCbx",
+      "userType": "agent",
+      "agentName": "patana mohan rao",
+      "quality": "Samba",
+      "bags": "500",
+      "quintals": "50",
+      "price": "1500",
+      "date": "2020-01-01",
+      "documentsStatus": "1"
+    },
+    {
+      "id": "quOWo1U",
+      "userType": "agent",
+      "agentName": "1",
+      "quality": "Samba",
+      "bags": "10",
+      "quintals": "8",
+      "price": "1250",
+      "date": "2020-01-01",
+      "documentsStatus": "1"
+    },
+    {
+      "id": "yvDynym",
+      "userType": "farmer",
+      "firstName": "Ganesh",
+      "lastName": "Bhemisetti",
+      "villageName": "Thanku",
+      "quality": "1001",
+      "bags": "200",
+      "quintals": "20",
+      "price": "1530",
+      "date": "2020-04-09",
+      "documentsStatus": "0"
+    },
+    {
+      "id": "TGkHwXr",
+      "userType": "farmer",
+      "firstName": "Anil",
+      "lastName": "Pallela",
+      "villageName": "Gowri patnam",
+      "quality": "Samba",
+      "email": "prithvi@gmail.com",
+      "bags": "500",
+      "quintals": "5",
+      "price": "1100",
+      "date": "2020-05-09",
+      "documentsStatus": "0"
+    }
+  ],
+  "agents": [
+    {
+      "agentFirstName": "polaki",
+      "agentLastName": "prithvi",
+      "agentVillageName": "korlam",
+      "id": 1
+    },
+    {
+      "agentFirstName": "patana",
+      "agentLastName": "mohan rao",
+      "agentVillageName": "Ichappuram",
+      "id": 2
+    },
+    {
+      "agentFirstName": "Rambabu",
+      "agentLastName": "Botsa",
+      "agentVillageName": "Palakonda",
+      "id": 3
+    },
+    {
+      "agentFirstName": "polaki",
+      "agentLastName": "raju",
+      "agentVillageName": "balaseema",
+      "id": 4
+    },
+    {
+      "agentFirstName": "polaki",
+      "agentLastName": "prithvi",
+      "agentVillageName": "urlam",
+      "id": 5
+    },
+    {
+      "agentFirstName": "prithvi",
+      "agentLastName": "polaki",
+      "agentVillageName": "urlam",
+      "id": 6
+    },
+    {
+      "agentFirstName": "prithvi",
+      "agentLastName": "polaki",
+      "agentVillageName": "urlam",
+      "id": 7
+    },
+    {
+      "agentFirstName": "polkai",
+      "agentLastName": "fdfd",
+      "agentVillageName": "dsd",
+      "id": 8
+    },
+    {
+      "agentFirstName": "dsd",
+      "agentLastName": "sdsd",
+      "agentVillageName": "dsd",
+      "id": 9
+    },
+    {
+      "agentFirstName": "dsd",
+      "agentLastName": "sds",
+      "agentVillageName": "sds",
+      "id": 10
+    },
+    {
+      "agentFirstName": "polaki",
+      "agentLastName": "dsds",
+      "agentVillageName": "sdsd",
+      "id": 11
+    },
+    {
+      "agentFirstName": "polaki",
+      "agentLastName": "prithvi",
+      "agentVillageName": "urlam",
+      "id": 12
+    },
+    {
+      "agentFirstName": "fdf",
+      "agentLastName": "sdf",
+      "agentVillageName": "sfd",
+      "id": 13
+    },
+    {
+      "agentFirstName": "fdf",
+      "agentLastName": "fdf",
+      "agentVillageName": "fdf",
+      "id": 14
+    },
+    {
+      "agentFirstName": "bvb",
+      "agentLastName": "cvvg",
+      "agentVillageName": "dfdf",
+      "id": 15
+    },
+    {
+      "agentFirstName": "polaki",
+      "agentLastName": "raju",
+      "agentVillageName": "Urlam",
+      "id": 16
+    }
+  ],
+  "qualities": [
+    {
+      "qualityName": "Samba",
+      "price": "1500",
+      "id": 1
+    }
+  ]
+}
